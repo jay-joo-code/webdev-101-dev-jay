@@ -9,6 +9,7 @@ While making Ezragram we’ll get first-hand experience with implementing some o
 Just show up to webdev's meetings! The course will a part of the developer onboarding process.
 
 Time & location of webdev meetings are posted on Instagram:
+
 [https://www.instagram.com/cornell_webdev/](https://www.instagram.com/cornell_webdev/)
 
 ## Schedule
