@@ -1,8 +1,12 @@
-<button class="btn-primary btn">Create post</button>
-<div class="badge-secondary badge">secondary</div>
-<div class="chat chat-start">
-	<div class="chat-bubble">It's over Anakin, <br />I have the high ground.</div>
-</div>
-<div class="chat chat-end">
-	<div class="chat-bubble">You underestimate my power!</div>
+<div class="flex justify-center">
+	<!-- The button to open modal -->
+	<label for="my-modal-4" class="btn-primary btn">Create post</label>
+
+	<!-- Put this part before </body> tag -->
+	<input type="checkbox" id="my-modal-4" class="modal-toggle" />
+	<label for="my-modal-4" class="modal cursor-pointer">
+		<label class="modal-box relative" for="">
+			<h3 class="text-lg font-bold">Create post</h3>
+		</label>
+	</label>
 </div>
